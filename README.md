@@ -2,10 +2,10 @@ This repository contains Python codes that used for the paper "Tunable Nanofluid
 
 The Python-based codes were tested with Python 3.11 and require:
 
-numpy
-pandas
-matplotlib
-scipy
-openpyxl
-PyQt5
-pyvisa
+*numpy
+*pandas
+*matplotlib
+*scipy
+*openpyxl
+*PyQt5
+*pyvisa
